@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "body": "This is my first post",
+      "likes": 222
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "body": "This is my second post",
+      "likes": 333
+    },
+    {
+      "id": 3,
+      "title": "My third post",
+      "body": "This is my third post",
+      "likes": 444
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer React or Vue",
+      "answerA": "React",
+      "answerB": "Vue"
+    },
+    {
+      "id": 2,
+      "question": "Do you prefer React or Angular",
+      "answerA": "React",
+      "answerB": "Angular"
+    }
+  ]
+}
